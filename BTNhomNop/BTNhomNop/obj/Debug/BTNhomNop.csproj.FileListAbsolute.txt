@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Winforms\BTNhomNop\BTNhomNop\bin\Debug\BTNhomNop.exe.config
+C:\Users\Admin\Desktop\Winforms\BTNhomNop\BTNhomNop\bin\Debug\BTNhomNop.exe
+C:\Users\Admin\Desktop\Winforms\BTNhomNop\BTNhomNop\bin\Debug\BTNhomNop.pdb
+C:\Users\Admin\Desktop\Winforms\BTNhomNop\BTNhomNop\obj\Debug\BTNhomNop.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Winforms\BTNhomNop\BTNhomNop\obj\Debug\BTNhomNop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Winforms\BTNhomNop\BTNhomNop\obj\Debug\BTNhomNop.Form1.resources
+C:\Users\Admin\Desktop\Winforms\BTNhomNop\BTNhomNop\obj\Debug\BTNhomNop.Properties.Resources.resources
+C:\Users\Admin\Desktop\Winforms\BTNhomNop\BTNhomNop\obj\Debug\BTNhomNop.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Winforms\BTNhomNop\BTNhomNop\obj\Debug\BTNhomNop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Winforms\BTNhomNop\BTNhomNop\obj\Debug\BTNhomNop.exe
+C:\Users\Admin\Desktop\Winforms\BTNhomNop\BTNhomNop\obj\Debug\BTNhomNop.pdb

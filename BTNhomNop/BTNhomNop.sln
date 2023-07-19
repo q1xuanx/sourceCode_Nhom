@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTNhomNop", "BTNhomNop\BTNhomNop.csproj", "{705EA6A9-6823-4218-97A8-67D47951957A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{705EA6A9-6823-4218-97A8-67D47951957A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705EA6A9-6823-4218-97A8-67D47951957A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705EA6A9-6823-4218-97A8-67D47951957A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705EA6A9-6823-4218-97A8-67D47951957A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08EA9DB1-D491-40C2-9B71-1EB79C42E28F}
+	EndGlobalSection
+EndGlobal
